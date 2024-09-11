@@ -1,0 +1,11 @@
+{
+  "name": "cars-api",
+  "version": "1.0.0",
+  "description": "THis is Assignment 1 project for INET2005",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miracle Fasaye",
+  "license": "ISC"
+}
